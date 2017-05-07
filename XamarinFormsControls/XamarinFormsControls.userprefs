@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FE5A6E5F-4044-4774-A4E2-52C89B547C20}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsControls.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.15C36213-1318-4D25-925C-6F950842EB3E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsControls/TopPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinFormsControls/Pages/DemoCarouselPage.xaml.cs" Line="9" Column="3" />
+      <File FileName="XamarinFormsControls/Pages/DemoCarouselPageCS.cs" Line="20" Column="6" />
+      <File FileName="XamarinFormsControls/Pages/DemoCarouselPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinFormsControls/Pages/MenuPage.xaml.cs" Line="36" Column="33" />
+      <File FileName="XamarinFormsControls/TopPage.xaml.cs" Line="32" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsControls.Droid PreferredExecutionTarget="Android.Nexus_5_API_21" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
